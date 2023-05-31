@@ -1,0 +1,15 @@
+item {
+    name: "damaged",
+    id: 1,
+    display_name: "damaged"
+}
+item {
+    name: "ripe",
+    id: 2,
+    display_name: "ripe"
+}
+item {
+    name: "unripe",
+    id: 3,
+    display_name: "unripe"
+}
